@@ -1,0 +1,15 @@
+[submodule "Plugins/CREWOSCTracker"]
+	path = Plugins/CREWOSCTracker
+	url = https://github.com/CREW-Brussels/CREWOSCTracker.git
+[submodule "Plugins/CREWVRTracking"]
+	path = Plugins/CREWVRTracking
+	url = https://github.com/CREW-Brussels/CREWVRTracking.git
+[submodule "Plugins/CREWReplicatedAudioCapture"]
+	path = Plugins/CREWReplicatedAudioCapture
+	url = https://github.com/CREW-Brussels/CREWReplicatedAudioCapture.git
+[submodule "Plugins/CHORUS"]
+	path = Plugins/CHORUS
+	url = https://github.com/CREW-Brussels/CHORUS.git
+[submodule "Plugins/CREWAnimationUtilities"]
+	path = Plugins/CREWAnimationUtilities
+	url = https://github.com/CREW-Brussels/CREWAnimationUtilities.git
